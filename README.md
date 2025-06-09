@@ -1,4 +1,4 @@
-# wafkali
+# wafkali 🐉
 WAF, Kali, Nikto, OWASP
 
 ## Objective
